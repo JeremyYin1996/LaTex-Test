@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.1.24)  10 FEB 2019 19:26
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.1.24)  7 MAR 2019 14:48
 entering extended mode
-**LatexModel.tex
-(C:\Users\Jeremy\Desktop\三拳超人\LaTeXtest\LatexModel.tex
+**LatexModel-多种方法求解lnx.tex
+(C:\Users\Jeremy\Documents\LaTex-Test\LatexModel-多种方法求解lnx.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\ctex\ctexart.cls
@@ -593,7 +593,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(C:\Users\Jeremy\Desktop\三拳超人\LaTeXtest\LatexModel.aux)
+(C:\Users\Jeremy\Documents\LaTex-Test\LatexModel-多种方法求解lnx.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -899,7 +899,7 @@ Requested font "SimSun/ICU" at 15.06pt
 Requested font "SimHei/ICU:script=latn;language=DFLT;mapping=tex-text;" at 15.0
 6pt
  -> C:/WINDOWS/Fonts/simhei.ttf
- (C:\Users\Jeremy\Desktop\三拳超人\LaTeXtest\LatexModel.toc
+ (C:\Users\Jeremy\Documents\LaTex-Test\LatexModel-多种方法求解lnx.toc
 Requested font "[lmroman10-bold]:mapping=tex-text" at 10.54pt
  -> C:/CTEX/MiKTeX/fonts/opentype/public/lm/lmroman10-bold.otf
 Requested font "SimSun" at 10.54pt
@@ -980,7 +980,8 @@ Requested font "[lmroman10-italic]:mapping=tex-text" at 10.54pt
 Requested font "[SIMKAI.TTF]/ICU:script=latn;language=DFLT;mapping=tex-text;" a
 t 10.54pt
  -> C:/WINDOWS/Fonts/SIMKAI.TTF
- [6] [7] (C:\Users\Jeremy\Desktop\三拳超人\LaTeXtest\LatexModel.aux)
+ [6] [7] (C:\Users\Jeremy\Documents\LaTex-Test\LatexModel-多种方法求解lnx
+.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.79001pt have occurred.
@@ -988,11 +989,11 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  15671 strings out of 430478
- 325994 string characters out of 3191502
- 327410 words of memory out of 3000000
+ 326106 string characters out of 3191502
+ 327420 words of memory out of 3000000
  18577 multiletter control sequences out of 15000+200000
  12376 words of font info for 84 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,12n,43p,822b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,12n,43p,832b,365s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on LatexModel.pdf (9 pages).
+Output written on LatexModel-多种方法求解lnx.pdf (9 pages).
